@@ -1,0 +1,71 @@
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>AGONIES</title>
+    </head>
+    <body>
+        <header>
+            <hgroup>
+                <h1>CUNEJO CUENTA CUNETOS</h1>
+                <h2>si no mata hiere...</h2>
+            </hgroup>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCRAI_ZpGCKlradv-DTZmjsA/videos" target="_blank">COCINA</a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCRAI_ZpGCKlradv-DTZmjsA/videos" target="_blank">ATRE</a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCRAI_ZpGCKlradv-DTZmjsA/videos" target="_blank">JUEGO</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <article>
+                <section>
+                    <h3>COCINA 1</h3>
+                    <p>PLATOS LLENOS DE HISTORIAS Y AGONIAS<br><br> sarmale for president!!</p>
+                    <figure>
+                        <img src="https://i.pinimg.com/originals/c8/b3/9d/c8b39d616ad5a21b7e40db6645e99d06.jpg" alt="CUNEJO">
+                    </figure>
+                </section>
+                <section>
+                    <h3>COCINA 2</h3>
+                    <p>Proximamente se podran ver mis endiabladas aventuras por Rumania!!</p>
+                    <figure>
+                        <img src="https://www.viajarabucarest.com/wp-content/uploads/comer-en-bucarest.jpg" alt="">
+                    </figure>
+                </section>
+            </article>
+            <article>
+                <section>
+                    <h3>ARTE 1</h3>
+                    <p>QUE sucedera</p>
+                    <figure>
+                        <img src="https://k50.kn3.net/1/F/E/9/2/A/DB3.jpg" alt="">
+                    </figure>
+                </section>
+                <section>
+                    <h3>ARTE 2</h3>
+                    <p>Al entrar en este canal te adentras en el mundo de las agonías, en el hallarás vídeos de cocina, perros, flores, poesía...
+                        También os contaré historias para no dormir, como los pensamientos retorcidos que se me ocurren por la cabeza y anoto en un bloc de notas para luego teñir mentes.
+                        Compartiré momentos de mi vida para despertar sonrisas y a la vez invertirlas. </p>
+                </section>
+            </article>
+            <article>
+                <section>
+                    <h3>JUEGO 1</h3>
+                    <p>Aprenderass a jugar a las mierdas mas friquis que te puedas imaginar</p>
+                </section>
+                <section>
+                    <h3>JUEGO 2</h3>
+                    <p>en este espacio nos interesa incluir un video</p>
+                </section>
+            </article>
+        </main>
+        <footer></footer>
+    </body>
+</html>
